@@ -97,8 +97,8 @@ class BlockHunt extends PluginBase implements Listener{
 		}
 		
 		for (CommandM ; ; W.commands) {
-			String[] argsSplit = null;
-			String[] argsSplitAlias = null;
+			String() argsSplit = null;
+			String() argsSplitAlias = null;
 
 			if (command.args != null && command.argsalias != null) {
 				argsSplit = command.args.split("/");
@@ -118,9 +118,9 @@ class BlockHunt extends PluginBase implements Listener{
 					if (args.length >= argsSplit.length) {
 						for (int i2 = argsSplit.length - 1; i2 >= 0; i2 = i2 - 1) {
 							int loc = argsSplit.length - i2 - 1;
-							if (!argsSplit[loc].equalsIgnoreCase(args[loc])
+							if (!argsSplit(loc).equalsIgnoreCase(args(loc))
 									&& !argsSplitAlias[loc]
-											.equalsIgnoreCase(args[loc])) {
+											.equalsIgnoreCase(args(loc)) {
 								equals = false;
 							}
 						}
