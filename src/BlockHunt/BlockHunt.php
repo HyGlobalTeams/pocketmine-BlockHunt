@@ -97,7 +97,7 @@ class BlockHunt extends PluginBase implements Listener{
 		}
 		
 		for (CommandM ; ; W.commands) {
-			String() argsSplit = null;
+			String() = null;
 			String() argsSplitAlias = null;
 
 			if (command.args != null && command.argsalias != null) {
