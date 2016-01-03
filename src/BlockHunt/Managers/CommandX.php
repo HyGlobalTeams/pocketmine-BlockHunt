@@ -6,7 +6,7 @@ use HideHunt\ConfigC;
 use HideHunt\PermissionsC;
 use HideHunt\W;
 
-class CommandM {
+class CommandX {
 	public $name; // String
 	public $label; // String
 	public $args; // String
