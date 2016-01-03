@@ -1,4 +1,3 @@
-HideHunt (Pocketmine-MP plugin)
-===================
+# PocketMine Block Hunt
 
-PocketMine-MP Hide n Seek Plugin
+A block hunt plugin for PocketMine-MP.
