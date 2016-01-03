@@ -96,7 +96,7 @@ class BlockHunt extends PluginBase implements Listener{
 			return false;
 		}
 		
-		for (CommandM command : W.commands) {
+		for (CommandM ; : W.commands) {
 			String[] argsSplit = null;
 			String[] argsSplitAlias = null;
 
