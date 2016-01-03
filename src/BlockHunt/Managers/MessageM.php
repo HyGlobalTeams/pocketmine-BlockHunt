@@ -1,4 +1,5 @@
 <?php
+namespace BlockHunt\Managers;
 use BlockHunt\BlockHunt;
 use BlockHunt\ConfigC;
 use BlockHunt\Storage;
