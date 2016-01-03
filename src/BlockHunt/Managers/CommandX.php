@@ -1,5 +1,5 @@
 <?php
-namespace HideHunt\Managers;
+namespace BlockHunt\Managers;
 
 use HideHunt\Commands\DefaultCMD;
 use HideHunt\ConfigC;
